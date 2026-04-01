@@ -1,0 +1,7 @@
+# .streamlit/secrets.toml
+# ─────────────────────────────────────────────────────────────
+# Password-protect the app.
+# Leave app_password blank (or remove it) for open access.
+# ─────────────────────────────────────────────────────────────
+
+app_password = "your-secure-password-here"

@@ -1,0 +1,7 @@
+{"amount": 5185420.0, "vendor_risk": 0.5, "prev_fraud": 0, "unusual": 0, "risk_score": 0.0432, "tier": "Low Risk", "logged_at": "2026-04-01T07:32:22.987727"}
+{"amount": 10000.0, "vendor_risk": 0.19, "prev_fraud": 0, "unusual": 0, "risk_score": 0.0017, "tier": "Low Risk", "logged_at": "2026-04-01T07:37:15.410267"}
+{"amount": 5980000.0, "vendor_risk": 0.19, "prev_fraud": 0, "unusual": 0, "risk_score": 0.0166, "tier": "Low Risk", "logged_at": "2026-04-01T07:37:45.634042"}
+{"amount": 59800.0, "vendor_risk": 0.19, "prev_fraud": 0, "unusual": 0, "risk_score": 0.3898, "tier": "Medium Risk", "logged_at": "2026-04-01T07:37:59.541688"}
+{"amount": 10000.0, "vendor_risk": 0.5, "prev_fraud": 0, "unusual": 0, "risk_score": 0.0056, "tier": "Low Risk", "logged_at": "2026-04-01T07:39:15.153118"}
+{"amount": 10000.0, "vendor_risk": 0.5, "prev_fraud": 0, "unusual": 0, "risk_score": 0.0056, "tier": "Low Risk", "logged_at": "2026-04-01T07:45:58.693541"}
+{"amount": 10000.0, "vendor_risk": 0.5, "prev_fraud": 0, "unusual": 0, "risk_score": 0.0062, "tier": "Low Risk", "logged_at": "2026-04-01T07:46:04.679490"}
